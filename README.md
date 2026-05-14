@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mew-Chat Banner](./assets/banner.svg)
+![Mew-Chat Banner](./screenshots/banner.svg)
 
 <br/>
 
