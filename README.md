@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7C3AED&center=true&vCenter=true&width=500&lines=Mew-Chat+%F0%9F%90%BE;Real-time+Chat+App" alt="Typing SVG" />
+![Mew-Chat Banner](./assets/banner.svg)
 
 <br/>
 
@@ -208,3 +208,10 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 This project is licensed under the [MIT License](LICENSE).
 
+---
+
+<div align="center">
+
+Made with ❤️ by [Tausif](https://github.com/niteboy17)
+
+</div>
