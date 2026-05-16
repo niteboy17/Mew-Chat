@@ -51,7 +51,7 @@
 ![Home](screenshots/HomePage.png)
 
 ### 📝 Sign Up
-![Signup](screenshots/SignUp.png)
+![Signup](screenshots/SignUpPage.png)
 
 ### 🔑 Login
 ![Login](screenshots/LoginPage.png)
